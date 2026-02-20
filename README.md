@@ -1,16 +1,27 @@
-## Hi there 👋
+# Vaibhav Bhoot
 
-<!--
-**vaibhavpatidarbhoot/vaibhavpatidarbhoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Enthusiast | Certified Ethical Hacker (CEH) | Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Official Portfolio
+https://vaibhavbhoot.in
+
+---
+
+## 🛠 Core Focus
+- Web Development (HTML, CSS, JavaScript, PHP, MySQL)
+- Web Application Security
+- Penetration Testing
+- Secure Application Architecture
+- Digital Product Development
+
+---
+
+## 🚀 Current Direction
+Building secure, scalable web systems while strengthening offensive and defensive security expertise.
+
+---
+
+## 📫 Connect
+🌐 https://vaibhavbhoot.in
